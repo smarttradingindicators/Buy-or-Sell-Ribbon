@@ -1,6 +1,6 @@
 # 🚀 Buy or Sell Ribbon A.I 
 
-![Buy or Sell Ribbon A.I](BuyorSellRibbon_1D.png)
+![Buy or Sell Ribbon A.I](Buy%20or%20Sell%20Ribbon%201D.png)
 
 Welcome to a new era of trading intelligence with the **Buy or Sell Ribbon A.I**, a revolutionary trading tool designed to turn market noise into a symphony of insights. This cutting-edge indicator leverages the power of multiple moving averages, crafting a vivid, actionable picture of market trends.
 
