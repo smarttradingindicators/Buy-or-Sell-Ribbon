@@ -30,6 +30,13 @@ Trading involves risk. The Buy or Sell Ribbon A.I is a tool designed to empower 
 
 Your feedback fuels our innovation! For any questions, feedback, or suggestions, drop us a line at support@smarttradingindicators.com.
 
+## 📱 Social Media
+
+Follow us on our social media platforms for the latest updates and insights:
+
+- [Instagram: @smarttradingindicators](https://instagram.com/smarttradingindicators?igshid=OGQ5ZDc2ODk2ZA==)
+- [Twitter: @smartindicators](https://twitter.com/smartindicators)
+
 ## 🔒 Note on Code Access
 
 The source code for Buy or Sell Ribbon A.I is proprietary and not publicly accessible. For code-related inquiries or further information, feel free to reach out at support@smarttradingindicators.com. We appreciate your understanding.
